@@ -14,7 +14,7 @@ namespace SuPassword
 {
     public partial class Accounts : UserControl
     {
-        public static string DB_PATH = Application.StartupPath + @"\System.Windws.Forms.dll";
+        public static string DB_PATH = Application.CommonAppDataPath + @"\System.Windws.Forms.dll";
         public static Accounts Instance;
         public Accounts()
         {
