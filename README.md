@@ -1,2 +1,24 @@
 # SuProtection
- SuProtection , secure file encryption and password manager 
+
+<p align="center">
+    <img width="600" src="https://github.com/su13r/SuProtection/blob/main/SuPassword/app_store_icon.png" />
+</p>
+
+<br />
+
+What is this?
+-------------
+SuProtection , secure file encryption and password manager 
+It provides an easy feature to encrypt files and passwords, 
+as no one can decrypt files or passwords and view them because they are encrypted using a password and only you can see the files.
+
+
+Comments, bugs, and requests:
+-----------------------------
+* Twitter (X) , Telegram , Youtube : @Su13R
+* Visit website : https://su13r.com
+* info@su13r.com
+
+Donation:
+-------
+* BTC - 333pDNC9ywnvStEDutSzmDHyZ8zLeDTA7i
