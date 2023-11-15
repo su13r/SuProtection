@@ -12,6 +12,7 @@ SuProtection , secure file encryption and password manager
 It provides an easy feature to encrypt files and passwords, 
 as no one can decrypt files or passwords and view them because they are encrypted using a password and only you can see the files.
 
+Download and more : https://project.su13r.com/suprotection/
 
 Comments, bugs, and requests:
 -----------------------------
